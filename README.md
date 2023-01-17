@@ -1,3 +1,3 @@
-# React-Udemy-Course
-Reactjs, Hooks, Redux, React Routing, Animations, Next.js
-React - The Complete Guide
+# First Course Project
+Stranica za pracenje 'potrosnje'
+Upoznavanje sa JSXom, komponentama i podacima 
